@@ -1,0 +1,99 @@
+body {
+      margin: 0;
+      text-align: center;
+      font-family: 'Akaya Telivigala', cursive;  }
+
+h1 { font-size: 5.625rem;
+     margin: 3.15rem auto 0 auto;
+     font-family: 'Satisfy', cursive;
+      color: #91091e;
+      line-height: 2;}
+
+h2 {font-family: 'Akaya Telivigala', cursive;
+    font-size: 2.5rem;
+    color: #51c2d5;
+    line-height: 2; }
+
+h3 {font-family: 'Akaya Telivigala', cursive;
+    color: #51c2d5;
+    line-height: 2; }
+
+p { font-family: 'Akaya Telivigala', cursive;
+    color: #51c2d5;
+    line-height: 2;
+    }
+
+    hr{border-bottom: 9px dotted;
+       border-top: none;
+       border-left: none;
+       border-right: none;
+       width: 5%;
+       border-bottom-color: #91091e;
+    }
+
+
+
+.top-container {background-color: #ccf2f4;}
+
+.middle-container {background-color: #ccf2f4;}
+
+.bottom-container {background-color: #ccf2f4;}
+
+.h {font-size: 4.5rem;}
+.p {color: #91091e;}
+
+
+.pro {
+      text-decoration: underline;
+      font-weight: normal;
+
+
+}
+
+
+.top-cloud {
+
+          position: absolute;
+          top: 80px;
+          right: 400px;
+          width: 12%;
+          height: 12%;
+
+}
+
+.mdl-cloud {
+          position: absolute;
+          left: 400px;
+          top: 300px;
+          width: 12%;
+          height: 12%;
+
+
+
+}
+
+.mountain {
+
+
+}
+
+.codemj {
+        width: 250px;
+        height: 250px;
+        }
+
+.bike {
+      width: 250px;
+      height: 250px;
+
+}
+
+.skill-row { position: relative;
+              right: 350px;}
+
+.skill-row2 { position: relative;
+              left: 350px;
+              bottom: 415px;}
+
+.hrcontact {position: relative;
+            bottom: 200px;}
